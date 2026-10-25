@@ -1,4 +1,4 @@
-\# Auditor de contraseñas
+# Auditor de contraseñas
 
 
 
@@ -6,7 +6,7 @@ Script en Python que evalúa la fortaleza de una contraseña y da recomendacione
 
 
 
-\## Cómo ejecutar
+## Cómo ejecutar
 
 
 
@@ -14,7 +14,7 @@ py main.py
 
 
 
-\## Ejemplo de salida
+## Ejemplo de salida
 
 
 
@@ -26,11 +26,11 @@ Puntaje: 100 de 100
 
 Nivel: Contrasena es muy fuerte
 
-\- ¡Excelente! No hay mejoras obvias.
+- ¡Excelente! No hay mejoras obvias.
 
 
 
-\## Qué aprendí
+## Qué aprendí
 
 
 
@@ -38,11 +38,11 @@ Aprendí la sintaxis básica de Python: funciones, condicionales, diccionarios, 
 
 
 
-\## Mejoras futuras
+## Mejoras futuras
 
 
 
-\- Mejorar el cálculo del puntaje.
+- Mejorar el cálculo del puntaje.
 
-\- Agregar una interfaz más amigable para el usuario.
+- Agregar una interfaz más amigable para el usuario.
 
